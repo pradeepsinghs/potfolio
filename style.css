@@ -250,14 +250,14 @@ section{
 }
 .section_pic-container img{
     /* width: 293px; */
-    border-radius: 22rem;
-    width: 50%;
+   /* border-radius: 22rem; */
+    width: 46%;
     height: 90%;
    
 }
 .section__pic_container img{
-    width: 325px;
-    border-radius: 6rem;
+    width: 320px;
+    border-radius: 1rem;
     
 }
 #about{
