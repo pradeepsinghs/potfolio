@@ -256,6 +256,7 @@ section{
    
 }
 .section__pic_container img{
+    height: -webkit-fill-available;
     width: 320px;
     border-radius: 1rem;
     
